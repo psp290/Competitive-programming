@@ -8,7 +8,6 @@ More than 500 practice questions of code solved in C++.
 
 
 |Sr.no|Topics|Problem|Done|
-
 |-----|------|-------|----|
 |    1|Array|[Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|No|
 |2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|No|
