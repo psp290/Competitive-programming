@@ -9,7 +9,7 @@ More than 500 practice questions of code solved in C++.
 
 |Sr.no|Topics|Problem|Done|
 |-----|------|-------|----|
-|    1|Array|[Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|No|
+|    1|Array|[Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
 |2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|No|
 |3|Array|[Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)|No|
 |4|Array|[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)|No|
