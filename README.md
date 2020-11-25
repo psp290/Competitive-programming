@@ -9,26 +9,12 @@ More than 500 practice questions of code solved in C++.
 
 |Sr.no|Topics|Problem|Done|
 |-----|------|-------|----|
-|    1|Array|[Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
-<<<<<<< HEAD
+|1|Array|[Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
 |2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
 |3|Array|[Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/kthSmallestElement.cpp)|
 |4|Array|[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/Sort012.cpp)|
 |5|Array|[Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/Front-Back+.cpp)|
 |6|Array|[Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/UnionIntersection.cpp)|
-||||||| merged common ancestors
-|2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
-|3|Array|[Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)|No|
-|4|Array|[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)|No|
-|5|Array|[Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)|No|
-|6|Array|[Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)|No|
-=======
-|2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/MinMaxInArray.cpp)|
-|3|Array|[Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)|No|
-|4|Array|[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)|No|
-|5|Array|[Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)|No|
-|6|Array|[Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)|No|
->>>>>>> 10d29a66c0f4c44f89c8618dc9f58baa6f4e92d3
 |7|Array|[Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)|No|
 |8|Array|[find Largest sum contiguous Subarray [V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
 |9|Array|[Minimise the maximum difference between heights [V.IMP]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)|No|
@@ -60,7 +46,6 @@ More than 500 practice questions of code solved in C++.
 |35|Array|[Median of 2 sorted arrays of equal size](https://practice.geeksforgeeks.org/problems/find-the-median0527/1)|No|
 |36|Array|[Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)|No|
 |||||
-|Topic|::::|::::|Matrix|
 |||||
 |37|Matrix|[Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)|[No]()|
 |38|Matrix|[Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)|[No]()|
@@ -73,7 +58,6 @@ More than 500 practice questions of code solved in C++.
 |45|Matrix|[Kth smallest element in a row-cpumn wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)|[No]()|
 |46|Matrix|[Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)|[No]()|
 |||||
-|Topic|::::|::::|String|
 |||||
 |47|String|[Reverse a String](https://leetcode.com/problems/reverse-string/)|[No]()|
 |48|String|[Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)|[No]()|
@@ -119,7 +103,6 @@ More than 500 practice questions of code solved in C++.
 |89|String|[Check if two given strings are isomorphic to each other](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)|[No]()|
 |90|String|[Recursively print all sentences that can be formed from list of word lists](https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/)|[No]()|
 |||||
-|Topic|::::|::::|Searching & Sorting|
 |||||
 |||[]()|[No]()|
 
