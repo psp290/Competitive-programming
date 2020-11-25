@@ -10,11 +10,25 @@ More than 500 practice questions of code solved in C++.
 |Sr.no|Topics|Problem|Done|
 |-----|------|-------|----|
 |    1|Array|[Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
+<<<<<<< HEAD
 |2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
 |3|Array|[Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/kthSmallestElement.cpp)|
 |4|Array|[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/Sort012.cpp)|
 |5|Array|[Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/Front-Back+.cpp)|
 |6|Array|[Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/UnionIntersection.cpp)|
+||||||| merged common ancestors
+|2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
+|3|Array|[Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)|No|
+|4|Array|[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)|No|
+|5|Array|[Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)|No|
+|6|Array|[Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)|No|
+=======
+|2|Array|[Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/MinMaxInArray.cpp)|
+|3|Array|[Find the "Kth" max and min element of an array ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)|No|
+|4|Array|[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)|No|
+|5|Array|[Move all the negative elements to one side of the array ](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)|No|
+|6|Array|[Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)|No|
+>>>>>>> 10d29a66c0f4c44f89c8618dc9f58baa6f4e92d3
 |7|Array|[Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)|No|
 |8|Array|[find Largest sum contiguous Subarray [V. IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
 |9|Array|[Minimise the maximum difference between heights [V.IMP]](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)|No|
