@@ -22,7 +22,7 @@ More than 500 practice questions of code solved in C++.
 |11|Array|[find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/ReverseString.cpp)|
 |12|Array|[Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)|No|
 |13|Array|[Kadane's Algo [V.V.V.V.V IMP]](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/KadaneAlgo.cpp)|
-|14|Array|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|No|
+|14|Array|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Yes](https://github.com/psp290/Competitive-programming/blob/main/Array/MergeIntervals.cpp)|
 |15|Array|[Next Permutation](https://leetcode.com/problems/next-permutation/)|No|
 |16|Array|[Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)|No|
 |17|Array|[Best time to buy and Sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|No|
